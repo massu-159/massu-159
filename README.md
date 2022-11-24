@@ -45,4 +45,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/75517054/203870000-686673e2-0083-4950-b8a8-f549795817cf.svg" alt="graphql" width="40" height="40"/>
+  </a>
 </p>
